@@ -28,16 +28,16 @@ class HomeController extends Controller
     public function index()
     {
         $homePage = SysPage::where('category','HOMEPAGE')->first();
-        $MucTieu = json_decode($homePage->options);
+        //$MucTieu = json_decode($homePage->options);
         $topTourIndex = Product::Top4Product(4);
         $topPostIndex = Post::Top3Post(3);
-        return view('home.layouts.index', compact('homePage','MucTieu','topTourIndex','topPostIndex'));
+        return view('ktm.layouts.index', compact('homePage','topTourIndex','topPostIndex'));
     }
 
     public function contact()
     {
         $homePage = SysPage::where('category','HOMEPAGE')->first();
         $topTourIndex = Product::Top4Product(4);
-        return view('home.layouts.contact', compact('homePage','topTourIndex'));
+        return view('ktm.layouts.contact', compact('homePage','topTourIndex'));
     }
 }

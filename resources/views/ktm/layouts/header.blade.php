@@ -4,17 +4,17 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="SUNRISE" />
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
-<link rel="stylesheet" href="{{ asset('public/ktmcoffee/css/bootstrap.css') }}" type="text/css" />
-<link rel="stylesheet" href="{{ asset('public/ktmcoffee/style.css') }}" type="text/css" />
-<link rel="stylesheet" href="{{ asset('public/ktmcoffee/css/dark.css') }}" type="text/css" />
-<link rel="stylesheet" href="{{ asset('public/ktmcoffee/css/font-icons.css') }}" type="text/css" />
-<link rel="stylesheet" href="{{ asset('public/ktmcoffee/css/animate.css') }}" type="text/css" />
-<link rel="stylesheet" href="{{ asset('public/ktmcoffee/css/magnific-popup.css') }}" type="text/css" />
-<link rel="stylesheet" href="{{ asset('public/ktmcoffee/css/responsive.css') }}" type="text/css" />
+<link rel="stylesheet" href="{{ asset('ktmcoffee/css/bootstrap.css') }}" type="text/css" />
+<link rel="stylesheet" href="{{ asset('ktmcoffee/style.css') }}" type="text/css" />
+<link rel="stylesheet" href="{{ asset('ktmcoffee/css/dark.css') }}" type="text/css" />
+<link rel="stylesheet" href="{{ asset('ktmcoffee/css/font-icons.css') }}" type="text/css" />
+<link rel="stylesheet" href="{{ asset('ktmcoffee/css/animate.css') }}" type="text/css" />
+<link rel="stylesheet" href="{{ asset('ktmcoffee/css/magnific-popup.css') }}" type="text/css" />
+<link rel="stylesheet" href="{{ asset('ktmcoffee/css/responsive.css') }}" type="text/css" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" type="text/css" href="{{ asset('public/ktmcoffee/include/rs-plugin/css/settings.css') }}" media="screen" />
-<link rel="stylesheet" type="text/css" href="{{ asset('public/ktmcoffee/include/rs-plugin/css/layers.css') }}">
-<link rel="stylesheet" type="text/css" href="{{ asset('public/ktmcoffee/include/rs-plugin/css/navigation.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('ktmcoffee/include/rs-plugin/css/settings.css') }}" media="screen" />
+<link rel="stylesheet" type="text/css" href="{{ asset('ktmcoffee/include/rs-plugin/css/layers.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('ktmcoffee/include/rs-plugin/css/navigation.css') }}">
 <title>KTMCoffee | Cà phê thật, sảng khoái thật</title>
 <style>
 .revo-slider-emphasis-text {
@@ -86,8 +86,8 @@
     <div class="container clearfix">
       <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
       <div id="logo">
-        <a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="{{ asset('public/ktmcoffee/images/logo.png')}}" alt="Canvas Logo"></a>
-        <a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="{{ asset('public/ktmcoffee/images/logo@2x.png')}}" alt="Canvas Logo"></a>
+        <a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="{{ asset('ktmcoffee/images/logo.png')}}" alt="Canvas Logo"></a>
+        <a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="{{ asset('ktmcoffee/images/logo@2x.png')}}" alt="Canvas Logo"></a>
       </div><!-- #logo end -->
       <nav id="primary-menu">
 

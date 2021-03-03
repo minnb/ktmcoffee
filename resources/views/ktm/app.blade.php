@@ -1,5 +1,5 @@
-@include('ktm.home.header')
-@include('ktm.home.slide')
+@include('ktm.layouts.header')
+@include('ktm.layouts.slide')
 @yield('content')
-@include('ktm.home.footer')
+@include('ktm.layouts.footer')
 

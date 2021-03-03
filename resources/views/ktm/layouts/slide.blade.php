@@ -19,7 +19,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('public/ktmcoffee/images/slider/rev/shop/girl1.jpg') }}" alt="Girl"></div>
+					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('ktmcoffee/images/slider/rev/shop/girl1.jpg') }}" alt="Girl"></div>
 
 					<div class="tp-caption ltl tp-resizeme revo-slider-caps-text uppercase"
 					data-x="570"
@@ -94,7 +94,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('public/ktmcoffee/images/slider/rev/shop/bag.png') }}" alt="Bag"></div>
+					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('ktmcoffee/images/slider/rev/shop/bag.png') }}" alt="Bag"></div>
 
 					<!-- LAYER NR. 2 -->
 					<div class="tp-caption ltl tp-resizeme revo-slider-caps-text uppercase"
@@ -165,7 +165,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('public/ktmcoffee/images/slider/rev/shop/tag.png') }}" alt="Bag"></div>
+					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('ktmcoffee/images/slider/rev/shop/tag.png') }}" alt="Bag"></div>
 
 				</li>
 			</ul>

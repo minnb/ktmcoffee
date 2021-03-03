@@ -9,24 +9,24 @@
 
 					<div class="row">
 						<div class="col-lg-6 norightpadding" style="margin-bottom: 15px;">
-							<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/banners/2.jpg')}}" alt="Image"></a>
+							<a href="#"><img src="{{ asset('ktmcoffee/images/shop/banners/2.jpg')}}" alt="Image"></a>
 						</div>
 
 						<div class="col-lg-6 norightpadding" style="margin-bottom: 15px;">
-							<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/banners/8.jpg')}}" alt="Image"></a>
+							<a href="#"><img src="{{ asset('ktmcoffee/images/shop/banners/8.jpg')}}" alt="Image"></a>
 						</div>
 
 						<div class="w-100"></div>
 
 						<div class="col-lg-12 norightpadding">
-							<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/banners/4.jpg')}}" alt="Image"></a>
+							<a href="#"><img src="{{ asset('ktmcoffee/images/shop/banners/4.jpg')}}" alt="Image"></a>
 						</div>
 					</div>
 
 				</div>
 
 				<div class="col-lg-4">
-					<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/banners/9.jpg')}}" alt="Image"></a>
+					<a href="#"><img src="{{ asset('ktmcoffee/images/shop/banners/9.jpg')}}" alt="Image"></a>
 				</div>
 			</div>
 			<div class="clear"></div>
@@ -45,8 +45,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/dress/1.jpg')}}" alt="Checked Short Dress"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/dress/1-1.jpg')}}" alt="Checked Short Dress"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/dress/1.jpg')}}" alt="Checked Short Dress"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/dress/1-1.jpg')}}" alt="Checked Short Dress"></a>
 									<div class="sale-flash">50% Off*</div>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
@@ -68,8 +68,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/pants/1-1.jpg')}}" alt="Slim Fit Chinos"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/pants/1.jpg')}}" alt="Slim Fit Chinos"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/pants/1-1.jpg')}}" alt="Slim Fit Chinos"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/pants/1.jpg')}}" alt="Slim Fit Chinos"></a>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
 										<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
@@ -93,9 +93,9 @@
 									<div class="fslider" data-arrows="false">
 										<div class="flexslider">
 											<div class="slider-wrap">
-												<div class="slide"><a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/shoes/1.jpg')}}" alt="Dark Brown Boots"></a></div>
-												<div class="slide"><a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/shoes/1-1.jpg')}}" alt="Dark Brown Boots"></a></div>
-												<div class="slide"><a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/shoes/1-2.jpg')}}" alt="Dark Brown Boots"></a></div>
+												<div class="slide"><a href="#"><img src="{{ asset('ktmcoffee/images/shop/shoes/1.jpg')}}" alt="Dark Brown Boots"></a></div>
+												<div class="slide"><a href="#"><img src="{{ asset('ktmcoffee/images/shop/shoes/1-1.jpg')}}" alt="Dark Brown Boots"></a></div>
+												<div class="slide"><a href="#"><img src="{{ asset('ktmcoffee/images/shop/shoes/1-2.jpg')}}" alt="Dark Brown Boots"></a></div>
 											</div>
 										</div>
 									</div>
@@ -119,8 +119,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/dress/2.jpg')}}" alt="Light Blue Denim Dress"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/dress/2-2.jpg')}}" alt="Light Blue Denim Dress"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/dress/2.jpg')}}" alt="Light Blue Denim Dress"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/dress/2-2.jpg')}}" alt="Light Blue Denim Dress"></a>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
 										<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
@@ -149,8 +149,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/sunglasses/1.jpg')}}" alt="Unisex Sunglasses"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/sunglasses/1-1.jpg')}}" alt="Unisex Sunglasses"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/sunglasses/1.jpg')}}" alt="Unisex Sunglasses"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/sunglasses/1-1.jpg')}}" alt="Unisex Sunglasses"></a>
 									<div class="sale-flash">Sale!</div>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
@@ -172,8 +172,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/tshirts/1.jpg')}}" alt="Blue Round-Neck Tshirt"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/tshirts/1-1.jpg')}}" alt="Blue Round-Neck Tshirt"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/tshirts/1.jpg')}}" alt="Blue Round-Neck Tshirt"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/tshirts/1-1.jpg')}}" alt="Blue Round-Neck Tshirt"></a>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
 										<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
@@ -194,8 +194,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/watches/1.jpg')}}" alt="Silver Chrome Watch"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/watches/1-1.jpg')}}" alt="Silver Chrome Watch"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/watches/1.jpg')}}" alt="Silver Chrome Watch"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/watches/1-1.jpg')}}" alt="Silver Chrome Watch"></a>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
 										<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
@@ -216,8 +216,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/shoes/2.jpg')}}" alt="Men Grey Casual Shoes"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/shoes/2-1.jpg')}}" alt="Men Grey Casual Shoes"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/shoes/2.jpg')}}" alt="Men Grey Casual Shoes"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/shoes/2-1.jpg')}}" alt="Men Grey Casual Shoes"></a>
 									<div class="sale-flash">Sale!</div>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
@@ -249,9 +249,9 @@
 									<div class="fslider" data-arrows="false">
 										<div class="flexslider">
 											<div class="slider-wrap">
-												<div class="slide"><a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/dress/3.jpg')}}" alt="Pink Printed Dress"></a></div>
-												<div class="slide"><a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/dress/3-1.jpg')}}" alt="Pink Printed Dress"></a></div>
-												<div class="slide"><a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/dress/3-2.jpg')}}" alt="Pink Printed Dress"></a></div>
+												<div class="slide"><a href="#"><img src="{{ asset('ktmcoffee/images/shop/dress/3.jpg')}}" alt="Pink Printed Dress"></a></div>
+												<div class="slide"><a href="#"><img src="{{ asset('ktmcoffee/images/shop/dress/3-1.jpg')}}" alt="Pink Printed Dress"></a></div>
+												<div class="slide"><a href="#"><img src="{{ asset('ktmcoffee/images/shop/dress/3-2.jpg')}}" alt="Pink Printed Dress"></a></div>
 											</div>
 										</div>
 									</div>
@@ -275,8 +275,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/pants/5.jpg')}}" alt="Green Trousers"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/pants/5-1.jpg')}}" alt="Green Trousers"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/pants/5.jpg')}}" alt="Green Trousers"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/pants/5-1.jpg')}}" alt="Green Trousers"></a>
 									<div class="sale-flash">Sale!</div>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
@@ -298,8 +298,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/sunglasses/2.jpg')}}" alt="Men Aviator Sunglasses"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/sunglasses/2-1.jpg')}}" alt="Men Aviator Sunglasses"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/sunglasses/2.jpg')}}" alt="Men Aviator Sunglasses"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/sunglasses/2-1.jpg')}}" alt="Men Aviator Sunglasses"></a>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
 										<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
@@ -320,8 +320,8 @@
 
 							<div class="product clearfix">
 								<div class="product-image">
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/tshirts/4.jpg')}}" alt="Black Polo Tshirt"></a>
-									<a href="#"><img src="{{ asset('public/ktmcoffee/images/shop/tshirts/4-1.jpg')}}" alt="Black Polo Tshirt"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/tshirts/4.jpg')}}" alt="Black Polo Tshirt"></a>
+									<a href="#"><img src="{{ asset('ktmcoffee/images/shop/tshirts/4-1.jpg')}}" alt="Black Polo Tshirt"></a>
 									<div class="product-overlay">
 										<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
 										<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
@@ -433,7 +433,7 @@
 			<div class="container clearfix">
 
 				<div class="col_half nobottommargin topmargin">
-					<img src="{{ asset('public/ktmcoffee/images/services/4.jpg')}}" alt="Image" class="nobottommargin">
+					<img src="{{ asset('ktmcoffee/images/services/4.jpg')}}" alt="Image" class="nobottommargin">
 				</div>
 
 				<div class="col_half subscribe-widget nobottommargin col_last">

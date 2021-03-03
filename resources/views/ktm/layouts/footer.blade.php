@@ -4,9 +4,9 @@
 			<div class="col_two_third">
 				<div class="col_one_third">
 					<div class="widget clearfix">
-						<img src="{{ asset('public/ktmcoffee/images/footer-widget-logo.png')}}" alt="" class="footer-logo">
+						<img src="{{ asset('ktmcoffee/images/footer-widget-logo.png')}}" alt="" class="footer-logo">
 						<p><i>Giữ <strong>trọn</strong>, <strong>tâm </strong> <strong>huyết</strong> trong từng gói cà phê</i></p>
-						<div style="background: url('public/images/world-map.png') no-repeat center center; background-size: 100%;">
+						<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 							<address>
 								<strong>Địa chỉ:</strong> 1339 tỉnh lộ 43 <br>P.Bình chiểu, Thủ Đức, TP HCM<br>
 								<br>
@@ -86,19 +86,19 @@
 </footer><!-- #footer end -->
 </div><!-- #wrapper end -->
 <div id="gotoTop" class="icon-angle-up"></div>
-<script src="{{ asset('public/ktmcoffee/js/jquery.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/js/plugins.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/js/functions.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/jquery.themepunch.tools.min.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/jquery.themepunch.revolution.min.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.video.min.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.slideanims.min.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.actions.min.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.kenburn.min.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.navigation.min.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.migration.min.js') }}"></script>
-<script src="{{ asset('public/ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.parallax.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/js/jquery.js') }}"></script>
+<script src="{{ asset('ktmcoffee/js/plugins.js') }}"></script>
+<script src="{{ asset('ktmcoffee/js/functions.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/jquery.themepunch.tools.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/jquery.themepunch.revolution.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.video.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.slideanims.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.actions.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.kenburn.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.navigation.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.migration.min.js') }}"></script>
+<script src="{{ asset('ktmcoffee/include/rs-plugin/js/extensions/revolution.extension.parallax.min.js') }}"></script>
 <script>
 var tpj=jQuery;
 tpj.noConflict();
@@ -106,7 +106,7 @@ tpj(document).ready(function() {
 	var apiRevoSlider = tpj('#rev_slider_ishop').show().revolution(
 	{
 		sliderType:"standard",
-		jsFileLocation:"{{ asset('public/ktmcoffee/include/rs-plugin/js/') }}",
+		jsFileLocation:"{{ asset('ktmcoffee/include/rs-plugin/js/') }}",
 		sliderLayout:"fullwidth",
 		dottedOverlay:"none",
 		delay:9000,

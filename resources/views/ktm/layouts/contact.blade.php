@@ -1,4 +1,4 @@
-@extends('ktm.app')
+@extends('layouts.app')
 @section('title', 'KTM Coffee')
 @section('content')
 <div class="wrap">
