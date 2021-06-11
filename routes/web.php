@@ -22,6 +22,6 @@ Route::get('/dashboard', ['as'=>'get.dashboard','uses'=>'Dashboard\DashboardCont
 //page
 Route::get('/lien-he', 'Home\HomeController@contact')->name('lien-he');
 //detail tour
-Route::get('{cate}/{id}{name}', ['as'=>'get.home.tour.detail','uses'=>'Home\TourController@detailTour'])->where('id', '[0-9]+');
+Route::get('{cate}/{id}{name}', ['as'=>'get.home.tour.detail','uses'=>'Home\ProductController@detailProduct'])->where('id', '[0-9]+');
 Route::get('post/{cate}/{id}{name}', ['as'=>'get.home.post.detail','uses'=>'Home\PostController@detailPost'])->where('id', '[0-9]+');
 

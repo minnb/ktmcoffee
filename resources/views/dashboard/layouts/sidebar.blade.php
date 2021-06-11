@@ -91,7 +91,7 @@
             <b class="arrow"></b>
 
             <ul class="submenu">
-                <li class="{{ getActiveCSS('get.dashboard.cate.list') }}">
+                <li class="{{ getActiveCSS('get.dashboard.cate') }}">
                     <a href="{{ route('get.dashboard.cate.list') }}">
                         <i class="menu-icon fa fa-caret-right"></i>
                         Categories
@@ -135,7 +135,7 @@
         <li class="{{ getRootCSS('dashboard.product') }}">
             <a href="#" class="dropdown-toggle">
                 <i class="menu-icon fa fa-pencil"></i>
-                <span class="menu-text"> Tours </span>
+                <span class="menu-text"> Product </span>
 
                 <b class="arrow fa fa-angle-down"></b>
             </a>

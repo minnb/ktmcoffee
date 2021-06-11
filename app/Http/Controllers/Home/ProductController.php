@@ -8,7 +8,7 @@ use App\Utils\HomeMucTieu;
 use App\Utils\TourOpt;
 use App\Models\Product;
 
-class TourController extends Controller
+class ProductController extends Controller
 {
     /**
      * Create a new controller instance.
@@ -25,7 +25,7 @@ class TourController extends Controller
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
-    public function detailTour($cate, $id, $name)
+    public function detailProduct($cate, $id, $name)
     {
         $detailTour = Product::find($id);
         $panelTour = Product::where([

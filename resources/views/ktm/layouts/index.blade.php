@@ -1,6 +1,7 @@
 @extends('ktm.app')
 @section('title', 'KTM Coffee')
 @section('content')
+@include('ktm.layouts.slide')
 <section id="content">
 	<div class="content-wrap">
 		<div class="container clearfix">
