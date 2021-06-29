@@ -19,7 +19,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('ktmcoffee/images/slider/rev/shop/girl1.jpg') }}" alt="Girl"></div>
+					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('ktmcoffee/images/ktm/ktm-coffee-1.png') }}" alt="Girl"></div>
 
 					<div class="tp-caption ltl tp-resizeme revo-slider-caps-text uppercase"
 					data-x="570"
@@ -33,7 +33,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=" color: #333;">Get your Shopping Bags Ready</div>
+					data-endeasing="Power4.easeIn" style=" color: #333;">CÀ PHÊ THẬT, SẢNG KHOÁI THẬT</div>
 
 					<div class="tp-caption ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
 					data-x="570"
@@ -47,7 +47,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=" color: #333; max-width: 430px; line-height: 1.15;">Latest Fashion<br>Collections</div>
+					data-endeasing="Power4.easeIn" style=" color: #333; max-width: 430px; line-height: 1.15;">KTM COFFEE</div>
 
 					<div class="tp-caption ltl tp-resizeme revo-slider-desc-text tleft"
 					data-x="570"
@@ -61,7 +61,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=" color: #333; max-width: 550px; white-space: normal;">We have created a Design that looks Awesome, performs Brilliantly &amp; senses Orientations.</div>
+					data-endeasing="Power4.easeIn" style=" color: #333; max-width: 550px; white-space: normal;">KTM Coffee - Chuyên Coffee nguyên chất mộc</div>
 
 					<div class="tp-caption ltl tp-resizeme"
 					data-x="570"
@@ -75,7 +75,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><a href="#" class="button button-border button-large button-rounded tright nomargin"><span>Start Shopping</span> <i class="icon-angle-right"></i></a></div>
+					data-endeasing="Power4.easeIn" style=""><a href="#" class="button button-border button-large button-rounded tright nomargin"><span>Đặt hàng</span> <i class="icon-angle-right"></i></a></div>
 
 				</li>
 				<!-- SLIDE  -->
@@ -94,7 +94,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('ktmcoffee/images/slider/rev/shop/bag.png') }}" alt="Bag"></div>
+					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('ktmcoffee/images/ktm/ktm-coffee-2.png') }}" alt="Bag"></div>
 
 					<!-- LAYER NR. 2 -->
 					<div class="tp-caption ltl tp-resizeme revo-slider-caps-text uppercase"
@@ -109,7 +109,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=" color: #333;">Buy Stylish Bags at Discounted Prices</div>
+					data-endeasing="Power4.easeIn" style=" color: #333;">Cà phê thật, sống chất</div>
 
 					<div class="tp-caption ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
 					data-x="0"
@@ -123,7 +123,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=" color: #333; line-height: 1.15;">Messenger Bags</div>
+					data-endeasing="Power4.easeIn" style=" color: #333; line-height: 1.15;">DRIP BAG COFFEE</div>
 
 					<div class="tp-caption ltl tp-resizeme revo-slider-desc-text tleft"
 					data-x="0"
@@ -137,7 +137,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=" color: #333; max-width: 550px; white-space: normal;">Grantees insurmountable challenges invest protect, growth improving quality social entrepreneurship.</div>
+					data-endeasing="Power4.easeIn" style=" color: #333; max-width: 550px; white-space: normal;">Tất cả đều là Nguyên chất rang mộc phối gu theo công thức bí quyết gia truyền KTM</div>
 
 					<div class="tp-caption ltl tp-resizeme"
 					data-x="0"
@@ -151,7 +151,7 @@
 					data-elementdelay="0.01"
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><a href="#" class="button button-border button-large button-rounded tright nomargin"><span>Start Shopping</span> <i class="icon-angle-right"></i></a></div>
+					data-endeasing="Power4.easeIn" style=""><a href="#" class="button button-border button-large button-rounded tright nomargin"><span>Đặt hàng</span> <i class="icon-angle-right"></i></a></div>
 
 					<div class="tp-caption utb tp-resizeme revo-slider-caps-text uppercase"
 					data-x="510"

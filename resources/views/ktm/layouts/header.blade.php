@@ -1,6 +1,38 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
+  <title>Cà phê thật, sảng khoái thật. Giữ trọn tâm huyết trong từng gói cà phê</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta name="description" content="Giữ trọn tâm huyết trong từng gói coffee. Cà phê thật, sảng khoái thật. Cafe Chế phin, Cafe nguyên hạt rang mộc, Cafe hạt blend pha máy, Cafe túi lọc phin giấy, Túi vải thơm cafe treo xe, Túi thơm cafe vải bố treo xe, Cốt cafe chai nhựa 330ml, Cốt cafe chai thủy tinh 500ml"/>
+ <meta name="keywords" content="Cà phê thật, sảng khoái thật. Cafe Chế phin, Cafe nguyên hạt rang mộc, Cafe hạt blend pha máy, Cafe túi lọc phin giấy, Túi vải thơm cafe treo xe, Túi thơm cafe vải bố treo xe, Cốt cafe chai nhựa 330ml, Cốt cafe chai thủy tinh 500ml"/>
+ <meta name="news_keywords" content="Tất cả đều là Nguyên chất rang mộc phối gu theo công thức bí quyết gia truyền KTM. Cà phê thật, sảng khoái thật. Cafe Chế phin, Cafe nguyên hạt rang mộc, Cafe hạt blend pha máy, Cafe túi lọc phin giấy, Túi vải thơm cafe treo xe, Túi thơm cafe vải bố treo xe, Cốt cafe chai nhựa 330ml, Cốt cafe chai thủy tinh 500ml"/>
+ <meta charset="utf-8">
+ <meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=1" name="viewport"/>
+ <meta http-equiv="X-UA-Compatible" content="IE=100"/>
+ <meta property="fb:app_id" content="1547540628876392"/>
+ <meta http-equiv="REFRESH" content="1800"/>
+ <meta name="apple-mobile-web-app-capable" content="yes"/>
+ <meta name="apple-mobile-web-app-title" content="ktmcoffee.com"/>
+ <meta name="tt_article_id" content="1000000"/>
+ <meta name="tt_page_type" content="site"/>
+ <meta name="tt_category_id" content="1000000"/>
+ <meta name="tt_site_id" content="1000000"/>
+<!-- META FOR FACEBOOK -->
+<meta property="og:site_name" content="ktmcoffee.com"/>
+<meta property="og:rich_attachment" content="true"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" itemprop="url" content="https://ktmcoffee.com"/>
+<meta property="og:image" itemprop="thumbnailUrl" content="https://ktmcoffee.com/public/ktm/images/caphe-phin-tui-giay.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="354"/>
+<meta content="Cà phê thật, sảng khoái thật | Giữ trọn tâm huyết trong từng gói coffee " itemprop="headline" property="og:title"/>
+<meta content="Tất cả đều là Nguyên chất rang mộc phối gu theo công thức bí quyết gia truyền KTM &amp; Giữ trọn tâm huyết trong từng gói coffee. Cà phê thật, sảng khoái thật. Cafe Chế phin, Cafe nguyên hạt rang mộc, Cafe hạt blend pha máy, Cafe túi lọc phin giấy, Túi vải thơm cafe treo xe, Túi thơm cafe vải bố treo xe, Cốt cafe chai nhựa 330ml, Cốt cafe chai thủy tinh 500ml" itemprop="description" property="og:description"/>
+<!-- END META FOR FACEBOOK -->
+<!-- GOOGLE SEARCH META GOOGLE SEARCH STRUCTURED DATA FOR ARTICLE && GOOGLE BREADCRUMB STRUCTURED DATA-->
+<script type="application/ld+json"> { "@context" : "http://schema.org", "@type" : "WebSite", "name" : "KTMCoffee", "alternateName" : "Cà phê mộc nguyên chất, cà phê cốt đóng chai, cà phê phin, túi cà phê treo xe, cà phê mộc chuẩn gu...", "url": "https://ktmcoffee.com", "potentialAction": { "@type": "SearchAction", "target": "https://ktmcoffee.com/?q={search_term_string}", "query-input": "required name=search_term_string" } } </script> 
+<script type="application/ld+json"> { "@context": "https://schema.org", "@type": "Organization", "name": "KTMCoffee", "url": "https://ktmcoffee.com", "logo": "https://ktmcoffee.com/public/ktm/images/caphe-phin-tui-giay.jpg", "foundingDate": "2001", "founders": [ { "@type": "Person", "name": "Cà phê mộc nguyên chất" }, { "@type": "Person", "name": "FPT" } ], "address": [ { "@type": "PostalAddress", "streetAddress": "9/27 Cù Chính Lan, Phường Trường Thi, TP Thanh Hóa.", "addressLocality": "Thanh Hóa City", "addressRegion": "Northeast", "postalCode": "100000", "addressCountry": "VNM" }, { "@type": "PostalAddress", "streetAddress": "9/27 Cù Chính Lan, Phường Trường Thi, TP Thanh Hóa.", "addressLocality": "TP Thanh Hóa", "addressRegion": "Southeast", "postalCode": "70000", "addressCountry": "VNM" } ], "contactPoint": [ { "@type": "ContactPoint", "telephone": "+84-123-888-0123", "contactType": "customer service" }, { "@type": "ContactPoint", "telephone": "+84-129-233-3555", "contactType": "customer service" } ], "sameAs": [ "https://www.facebook.com/nhung.hoang.395669"] } </script> 
+<!-- END GOOGLE SEARCH META GOOGLE SEARCH STRUCTURED DATA FOR ARTICLE && GOOGLE BREADCRUMB STRUCTURED DATA-->
+
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="SUNRISE" />
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
@@ -86,7 +118,7 @@
     <div class="container clearfix">
       <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
       <div id="logo">
-        <a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="{{ asset('ktmcoffee/images/logo.png')}}" alt="Canvas Logo"></a>
+        <a href="{{route('home')}}" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="{{ asset('ktmcoffee/images/logo.png')}}" alt="Canvas Logo"></a>
         <a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="{{ asset('ktmcoffee/images/logo@2x.png')}}" alt="Canvas Logo"></a>
       </div><!-- #logo end -->
       <nav id="primary-menu">
