@@ -4,7 +4,7 @@
 			<div class="col_two_third">
 				<div class="col_one_third">
 					<div class="widget clearfix">
-						<img src="{{ asset('ktmcoffee/images/logo.png')}}" alt="" class="footer-logo">
+						<img src="{{ asset('ktmcoffee/images/logo.png')}}" alt="Cà phê thật, sảng khoái thật" class="footer-logo">
 						<p><i>Giữ <strong>trọn</strong>, <strong>tâm </strong> <strong>huyết</strong> trong từng gói cà phê</i></p>
 						<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 							<address>
@@ -75,8 +75,7 @@
 			<div class="col_one_third col_last">
 				<div class="widget clearfix" style="margin-bottom: -20px;">
 					<div class="row">
-						<div class="fb-page" data-href="https://www.facebook.com/caphe.nguyenchat.ktmcoffee" data-tabs="timeline,events" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-lazy="true">
-						                <blockquote cite="https://www.facebook.com/caphe.nguyenchat.ktmcoffee" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/caphe.nguyenchat.ktmcoffee">Vị nguyên chất, sảng khoái thật</a></blockquote></div>
+						<div class="fb-page" data-href="https://www.facebook.com/caphe.nguyenchat.ktmcoffee" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/caphe.nguyenchat.ktmcoffee" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/caphe.nguyenchat.ktmcoffee">Vị nguyên chất - sảng khoái thật</a></blockquote></div>
 						</div>
 					</div>
 				</div>

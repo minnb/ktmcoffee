@@ -118,8 +118,8 @@
     <div class="container clearfix">
       <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
       <div id="logo">
-        <a href="{{route('home')}}" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="{{ asset('ktmcoffee/images/logo.png')}}" alt="Canvas Logo"></a>
-        <a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="{{ asset('ktmcoffee/images/logo@2x.png')}}" alt="Canvas Logo"></a>
+        <a href="{{route('home')}}" class="standard-logo" data-dark-logo="{{ asset('ktmcoffee/images/logo.png')}}"><img src="{{ asset('ktmcoffee/images/logo.png')}}" alt="Cà phê thật, sảng khoái thật"></a>
+        <a href="{{route('home')}}" class="retina-logo" data-dark-logo="{{ asset('ktmcoffee/images/logo.png')}}"><img src="{{ asset('ktmcoffee/images/logo.png')}}" alt="Cà phê thật, sảng khoái thật"></a>
       </div><!-- #logo end -->
       <nav id="primary-menu">
 
@@ -168,7 +168,7 @@
         
         <div id="top-search">
           <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
-          <form action="search.html" method="get">
+          <form action="#" method="get">
             <input type="text" name="q" class="form-control" value="" placeholder="Tìm &amp; kiếm..">
           </form>
         </div>
@@ -189,4 +189,6 @@
 
     gtag('config', 'UA-172725878-1');
 </script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v11.0" nonce="YaBS6uXQ"></script>
 </header>

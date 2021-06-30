@@ -85,13 +85,13 @@
 				<a href="#"><img src="{{ asset('ktmcoffee/images/ktm/kq_kiem_nghiem.jpg')}}" alt="Light Blue Denim Dress"></a>
 				<a href="#"><img src="{{ asset('ktmcoffee/images/ktm/kq_kiem_nghiem.jpg')}}" alt="Light Blue Denim Dress"></a>
 				<div class="product-overlay">
-					<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Add to Cart</span></a>
+					<a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Đặt mua</span></a>
 					<a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
 				</div>
 			</div>
 			<div class="product-desc">
-				<div class="product-title"><h3><a href="#">Light Blue Denim Dress</a></h3></div>
-				<div class="product-price">$19.95</div>
+				<div class="product-title"><h3><a href="#">Giấy chứng nhận an toàn</a></h3></div>
+				<div class="product-price"></div>
 				<div class="product-rating">
 					<i class="icon-star3"></i>
 					<i class="icon-star3"></i>

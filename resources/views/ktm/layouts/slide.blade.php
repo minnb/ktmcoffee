@@ -1,11 +1,10 @@
-<section id="slider" class="slider-element slider-parallax revslider-wrap ohidden clearfix">
+<section id="slider" class="hidden-xs slider-element slider-parallax revslider-wrap ohidden clearfix">
 	<div id="rev_slider_ishop_wrapper" class="rev_slider_wrapper fullwidth-container" data-alias="default-slider" style="padding:0px;">
 			<!-- START REVOLUTION SLIDER 5.1.4 fullwidth mode -->
 		<div id="rev_slider_ishop" class="rev_slider fullwidthbanner" style="display:none;" data-version="5.1.4">
 			<ul>    <!-- SLIDE  -->
 				<li data-transition="fade" data-slotamount="1" data-masterspeed="1500" data-delay="5000" data-saveperformance="off" data-title="Latest Collections" style="background-color: #F6F6F6;">
 					<!-- LAYERS -->
-
 					<!-- LAYER NR. 2 -->
 					<div class="tp-caption ltl tp-resizeme revo-slider-caps-text uppercase"
 					data-x="100"
@@ -152,20 +151,6 @@
 					data-endelementdelay="0.1"
 					data-endspeed="1000"
 					data-endeasing="Power4.easeIn" style=""><a href="#" class="button button-border button-large button-rounded tright nomargin"><span>Đặt hàng</span> <i class="icon-angle-right"></i></a></div>
-
-					<div class="tp-caption utb tp-resizeme revo-slider-caps-text uppercase"
-					data-x="510"
-					data-y="0"
-					data-transform_in="x:0;y:-236;z:0;rotationZ:0;skewX:0;skewY:0;opacity:0;s:700;e:Power4.easeOutQuad;"
-					data-speed="600"
-					data-start="2100"
-					data-easing="easeOutQuad"
-					data-splitin="none"
-					data-splitout="none"
-					data-elementdelay="0.01"
-					data-endelementdelay="0.1"
-					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><img src="{{ asset('ktmcoffee/images/slider/rev/shop/tag.png') }}" alt="Bag"></div>
 
 				</li>
 			</ul>
