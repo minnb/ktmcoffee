@@ -62,20 +62,6 @@
 					data-endspeed="1000"
 					data-endeasing="Power4.easeIn" style=" color: #333; max-width: 550px; white-space: normal;">KTM Coffee - Chuyên Coffee nguyên chất mộc</div>
 
-					<div class="tp-caption ltl tp-resizeme"
-					data-x="570"
-					data-y="375"
-					data-transform_in="x:0;y:150;z:0;rotationZ:0;scaleX:1.3;scaleY:1;skewX:0;skewY:0;opacity:0;s:700;e:Power4.easeOutQuad;"
-					data-speed="700"
-					data-start="1550"
-					data-easing="easeOutQuad"
-					data-splitin="none"
-					data-splitout="none"
-					data-elementdelay="0.01"
-					data-endelementdelay="0.1"
-					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><a href="#" class="button button-border button-large button-rounded tright nomargin"><span>Đặt hàng</span> <i class="icon-angle-right"></i></a></div>
-
 				</li>
 				<!-- SLIDE  -->
 				<li data-transition="slideup" data-slotamount="1" data-masterspeed="1500" data-delay="5000"  data-saveperformance="off"  data-title="Messenger bags" style="background-color: #E9E8E3;">
@@ -138,19 +124,6 @@
 					data-endspeed="1000"
 					data-endeasing="Power4.easeIn" style=" color: #333; max-width: 550px; white-space: normal;">Tất cả đều là Nguyên chất rang mộc phối gu theo công thức bí quyết gia truyền KTM</div>
 
-					<div class="tp-caption ltl tp-resizeme"
-					data-x="0"
-					data-y="340"
-					data-transform_in="x:0;y:150;z:0;rotationZ:0;scaleX:1.3;scaleY:1;skewX:0;skewY:0;opacity:0;s:700;e:Power4.easeOutQuad;"
-					data-speed="700"
-					data-start="1550"
-					data-easing="easeOutQuad"
-					data-splitin="none"
-					data-splitout="none"
-					data-elementdelay="0.01"
-					data-endelementdelay="0.1"
-					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style=""><a href="#" class="button button-border button-large button-rounded tright nomargin"><span>Đặt hàng</span> <i class="icon-angle-right"></i></a></div>
 
 				</li>
 			</ul>
